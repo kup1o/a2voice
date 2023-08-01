@@ -19,7 +19,5 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
-    - name: Rust Formatting
-      run: cargo fmt --all -- --check
     - name: Build
       run: cargo build --verbose

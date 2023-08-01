@@ -1,2 +1,3 @@
 # Audio file to voice message Telegram Bot 
-`TELOXIDE_TOKEN`
+The bot has been tested successfully with .mp3 & .ogg files.
+Add your bot token to the environment variable `TELOXIDE_TOKEN`
